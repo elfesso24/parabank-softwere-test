@@ -2,7 +2,7 @@
 
 
 
-# Software Testing Project Documentation
+## Software Testing Project Documentation
 **Course**: CS414 – Software Testing
 **System Under Test**: ParaBank (Web UI)
 **Tester**: Feras Gsiea
